@@ -1,6 +1,6 @@
 # Results:
 
-![My Results](https://drive.google.com/file/d/1oewP0ImEUmKqURV0aBjJLXVdFYULWyhC/view?usp=sharing)
+![My Results](results.png)
 
 # Reflections:
 
