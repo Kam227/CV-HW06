@@ -1,6 +1,6 @@
 # Results:
 
-![My Results](results.png)
+![My Results](result.png)
 
 # Reflections:
 
